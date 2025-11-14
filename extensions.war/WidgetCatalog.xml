@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Licensed Materials - Property of IBM
+ WidgetCatalog.xml
+© Copyright IBM Corporation 2013
+
+U.S. Government Users Restricted Rights:  Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp. 
+
+This file packages the extensions into a catalog that can be used for integration with the Add Widget dialog.  
+-->
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:ju="http://jazz.net/ns/ui#" 
+	xmlns:dc="http://purl.org/dc/terms/">
+	<ju:catalog-entry>
+		<dc:description>Traceability Matrix</dc:description>
+		<dc:title>Traceability Matrix</dc:title>
+		<ju:gadget rdf:resource='./traceabilityMatrix/traceabilityMatrix.xml' />
+		<ju:icon rdf:resource="./traceabilityMatrix/traceabilityMatrix.gif"/>
+		<ju:preview rdf:resource="./traceabilityMatrix/traceabilityMatrix_pre.png"/>
+		<ju:thumbnail rdf:resource="./traceabilityMatrix/traceabilityMatrix.png"/>
+        <ju:category>Requirements</ju:category> 
+		<ju:category>Sample Extensions</ju:category>
+	</ju:catalog-entry>
+</rdf:RDF> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
