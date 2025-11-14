@@ -1,15 +1,4 @@
-/*
- Licensed Materials - Property of IBM
- attr-links-exp.js
- © Copyright IBM Corporation 2013
 
-U.S. Government Users Restricted Rights:  Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp. 
-*/
-
-// On selecting an artifact, display all well known attributes and links on it table form.
-
-
-/* Main Operating Function */
 
 
 

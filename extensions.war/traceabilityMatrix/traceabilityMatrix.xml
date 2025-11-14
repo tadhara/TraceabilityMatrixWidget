@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!--
- Licensed Materials - Property of IBM
- attr-links-ext.xml
-© Copyright IBM Corporation 2013
 
-U.S. Government Users Restricted Rights:  Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp. 
--->
 <Module specificationVersion="2.0">
 <ModulePrefs title="Traceability Matrix" height="700" scrolling="true">
 	<Require feature="com.ibm.rdm.rm.api"/>
